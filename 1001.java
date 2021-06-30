@@ -2,7 +2,7 @@ package uri;
 
 import java.util.Scanner;
 
-public class a {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
